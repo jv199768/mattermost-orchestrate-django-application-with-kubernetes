@@ -16,3 +16,7 @@ Build a Django application
 As mentioned earlier, you’ll build a lead management application. That said, we’ll only be working with the models and using the Django admin to do all the testing. First, we’ll create the Leads model with its required fields then update the admin.py file so that we can access the model we just created on the admin panel.
 
 https://mattermost.com/blog/orchestrate-django-application-with-kubernetes/
+
+https://www.linuxtechi.com/how-to-install-minikube-on-debian/
+
+https://killercoda.com/playgrounds/scenario/kubernetes
